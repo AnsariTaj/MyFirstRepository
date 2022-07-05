@@ -1,1 +1,1 @@
-Hi,welcome to git
+Hi,welcome to git,we will see pull and fetch in next video.
