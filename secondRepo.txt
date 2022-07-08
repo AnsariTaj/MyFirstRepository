@@ -1,2 +1,3 @@
 Hi,welcome to git,we will see pull and fetch in next video .
 Today date is 8-7-22.
+learn difference between git pull and fetch.
